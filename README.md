@@ -16,3 +16,6 @@ class MyModelAdmin(LinkedModelAdmin):
     fields = ('user', ...)
     readonly_fields = ('user', ...)
 ```
+
+### Another good solution:
+https://stackoverflow.com/a/69898648/14182655
